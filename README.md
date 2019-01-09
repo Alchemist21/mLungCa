@@ -4,7 +4,7 @@ Machine Learning using Javascript
 Instructions::
 1. Clone the directory using git clone
 2. Make sure you have node
-3. Run with node index
+3. In your terminal, run with "node index"
 
 Assumptions:
 1. We want to predict whether a patient who is a smoker and is > 55 years of age has Lung Cancer 
