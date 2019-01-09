@@ -6,8 +6,7 @@ Assumptions:
 
 Note  
 Definition of variables
-Input : variable 1. smoker (0=non, 1)
-Input : variable 2. > 55 years old (0=non, 1)
+Input : variable 1. smoker (0=non, 1); variable 2. > 55 years old (0=non, 1)
 Output: variable 3. Lung cancer (0=non, 1)
 
 Instructions::
