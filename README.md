@@ -1,4 +1,4 @@
-# mLungCa
+Machine Learning using Javascript
 Machine Learning using Javascript
 
 Instructions::
