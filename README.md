@@ -1,5 +1,5 @@
 Machine Learning using Javascript
-Machine Learning using Javascript
+
 
 Instructions::
 1. Clone the directory using git clone
