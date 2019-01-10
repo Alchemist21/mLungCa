@@ -3,10 +3,11 @@ Machine Learning using Javascript
 
 Instructions:
 
-1. At your terminal, Create a directory mLungCa
-2. Clone the directory using "git clone https://github.com/Alchemist21/mLungCa.git"
-3. Make sure you have node if not, go to node.js and install
-4. Run using "node index"
+1. Fork this repo
+2. At your terminal, Create your own directory mLungCa
+3. Inside your created mLungCa directory, clone the file using "git clone thefileyouwantcopied "
+4. Make sure you have node if not, go to node.js and install
+5. Run using "node index"
 
 Assumptions:
 1. We want to predict whether a patient who is a smoker and is > 55 years of age has Lung Cancer 
