@@ -11,7 +11,7 @@ Instructions:
 
 Assumptions:
 
-1. We want to predict whether a patient who is a smoker and is > 55 years of age has Lung Cancer 
+1. We want to predict whether our patient A.O who is a smoker and is 60 years old has Lung Cancer 
 2. We have a data set which we plug into our machine learning model (Simple Regression)
 
 Dataset:
