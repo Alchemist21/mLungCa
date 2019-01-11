@@ -36,9 +36,12 @@ Definition of variables
 Input : variable 1. smoker (0=non, 1); variable 2. > 55 years old (0=non, 1)
 Output: variable 3. Lung cancer (0=non, 1)
 
-Question: 
+Question 1: 
 
 Given only the following data set. What is the probability that our 60 year old patient A.O. who is a smoker has Lung Cancer? 
 Note that this is for exercise purposes and we are only looking for association, not causation.
 
 Answer: 79%
+
+Bonus Question 2: 
+What Machine Learning Model was used in this example? What other machine learning models do you think could have been used?
