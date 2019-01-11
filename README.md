@@ -15,7 +15,7 @@ What we want:
 
 What we have:
 
-2. We have a data set which we plug into our machine learning model (Simple Regression)
+2. We have a data set which we plug into our machine learning model 
 
 Dataset:
 
