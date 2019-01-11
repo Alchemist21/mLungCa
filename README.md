@@ -9,9 +9,12 @@ Instructions:
 4. Make sure you have node if not, go to node.js and install
 5. Run using "node index"
 
-Assumptions:
+What we want:
 
 1. We want to predict whether our patient A.O who is a smoker and is 60 years old has Lung Cancer 
+
+What we have:
+
 2. We have a data set which we plug into our machine learning model (Simple Regression)
 
 Dataset:
